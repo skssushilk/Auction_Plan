@@ -1,3 +1,6 @@
+/**
+*@author Venkateswarlu Bikki
+*/
 package com.eurekaregistry;
 
 import org.springframework.boot.SpringApplication;
